@@ -1,5 +1,7 @@
 # forkify Project
 
+https://forkify-v2.netlify.app/
+
 App for searching recipes in a large database
 Supports adding your own recipes
 Recipes adjust serving size to different numbers of people
